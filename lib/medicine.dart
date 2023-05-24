@@ -1,17 +1,5 @@
 import 'package:flutter/material.dart';
 
-// class Employee {
-//   late int id;
-//   String name;
-//   String location;
-
-//   Employee({required this.name, required this.location});
-
-//   Map<String, dynamic> toMap() {
-//     return {'name': name, 'location': location};
-//   }
-// }
-
 class Medicine {
   int id;
   String medicineName;
